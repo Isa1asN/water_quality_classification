@@ -1,11 +1,11 @@
 # Water Quality
-### Drinking Water Potability classifier using Logistic regression from scratch.
-* ## Model: Logistic regression(binary classifier)
-* ## Approx 90-10 train-test split
-* ## Missing values were filled using Imputation(mean)
-* ## Z-Score Standardization used
-* ## Regularization: L2(Ridge)
-* ## Metric: F1 score-got about .731 but may need some work in the future 
+## Drinking Water Potability classifier using Logistic regression from scratch.
+* ### Model: Logistic regression(binary classifier)
+* ### Approx 90-10 train-test split
+* ### Missing values were filled using Imputation(mean)
+* ### Z-Score Standardization used
+* ### Regularization: L2(Ridge)
+* ### Metric: F1 score-got about .731 but may need some work in the future 
 
 ## About Dataset
 ### Context
